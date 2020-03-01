@@ -21,9 +21,9 @@
 
 Пользователи и пароли:
 
-max (max11)
-kat (kat12)
-rita (rita22)
+- max (max11)
+- kat (kat12)
+- rita (rita22)
 
 Задания:
 
